@@ -1,0 +1,1 @@
+# criando-uma-instacia-global-de-todo-o-obj-da-don-no-vue-3-
